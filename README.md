@@ -28,7 +28,8 @@ Submit your final analysis.
 # References
 used Xpert Learning Assistance for guidance: 
 
-my question: for homework module 5 challenge how do I get the table in the format it shows as the answer output (only showing 0-4)? I have # Create a clean DataFrame by dropping the duplicate mouse by its ID. clean_data = merged_data[merged_data["Mouse ID"] != "g989"] clean_data
+my question: for homework module 5 challenge how do I get the table in the format it shows as the answer output (only showing 0-4)? 
+I have # Create a clean DataFrame by dropping the duplicate mouse by its ID. clean_data = merged_data[merged_data["Mouse ID"] != "g989"] clean_data
 
 what it gave me as an example:
 display(clean_data.head(5))
@@ -38,4 +39,5 @@ my question: how do I avoid overlapping in xlabel for matplotlib?
 
 what it gave me as an example:
 plt.xticks(rotation=45, ha='right')
+
 
